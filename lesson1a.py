@@ -27,3 +27,21 @@ print(total_marks)
 # variable names are not supposed to be keywords/reserved characters in python
 # for="Nairobi"
 # print(for)
+
+# python data types
+# string- It is a series of characters that are inside of qoutes
+name ="Joseph Kainembuga"
+print(name)
+print(type(name))
+
+# Numeric
+# Int-this indicate a whole number in python .for an  integer ,we dont use quotes
+age = 39
+print("the age of a person is:", age)
+print(type(age))
+
+
+# float -This is a number with a decimal place
+coordinates = 15.4524
+print("the coordinates are: ",coordinates)
+print(type(coordinates))

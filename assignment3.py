@@ -1,4 +1,4 @@
-premiumrates = int(input("Enter your gross income"))
+premiumrates = float(input("Enter your gross income"))
 if premiumrates > 0 and premiumrates <= 5999:
     print("Monthly contribution is 150.00")
 elif premiumrates >= 8000 and premiumrates <= 11999:
